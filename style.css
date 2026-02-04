@@ -1,0 +1,17 @@
+body{
+    text-align: justify;
+    background-image: url(../web/img/background.webp);
+    align-items: center;
+}
+
+main{
+    background-color: rgba(216, 214, 184, 0.95);
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+li{
+    margin-left: 2px;
+}
